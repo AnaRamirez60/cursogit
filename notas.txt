@@ -1,0 +1,8 @@
+comandos para movernos en consola
+
+cd movernos a otra carpeta
+nano para escribir sobre archivos
+touch crear archivos
+mkdir crea directorio
+pwd - ver ruta sobre la que estamos
+ls - saber que archivos contiene una carpeta
